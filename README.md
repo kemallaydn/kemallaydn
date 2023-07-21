@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/kemal-aydın-823889263/)
+[![website](./linkedin-dark.svg)](https://www.linkedin.com/in/kemal-aydın-823889263/)
 
 
 ### Languages and Tools:
